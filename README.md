@@ -1,6 +1,6 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dianggraaeni&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="60%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dianggraaeni&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianggraaeni&theme=tokyonight&hide_border=false" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianggraaeni&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="36%" /> </br>
 </div>
