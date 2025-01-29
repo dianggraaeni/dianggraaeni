@@ -14,4 +14,4 @@ information technology ITS 2023
 ---
 [![](https://visitcount.itsvg.in/api?id=dianggraaeni&icon=9&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/dianggraaeni/dianggraaeni/blob/output/github-snake-dark.svg)
