@@ -14,7 +14,10 @@
 </div>
 
 <!-- GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=dianggraaeni&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=dianggraaeni&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 <!-- Snake -->
 <div align="center">
